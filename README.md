@@ -1,10 +1,10 @@
 # Predictive-maintenance-of-Transformers-using-Deep-learning
 
-Predictive maintenance, also called condition-based maintenance is a pro-active maintenance strategy that monitors the condition and performance of an asset in real-time to predict when an asset needs a maintenance before it breaks down. A small increase in prediction accuracy can bring up huge profits and savings .So we always strive towards increasing accuracy, efficiency, and productivity.
+Predictive maintenance, also called condition-based maintenance is a proactive maintenance strategy that monitors the condition and performance of an asset in real-time to predict when an asset needs maintenance before it breaks down. A slight increase in prediction accuracy can bring up massive profits and savings .So we always strive towards increasing accuracy, efficiency, and productivity.
 
 This predictive maintenance is used vastly in many fields. Some examples are mentioned below- \
 Airbus detects defects in aircraft pipes with semantic segmentation.\
-siemens develops health monitoring system for distribution transformers.\
+siemens develops a health monitoring system for distribution transformers.\
 RWE Renewables detects anomalies in wind turbine bearings using neural networks.\
 Mondi develops and deploys algorithms to predict plastic production machine failures.
 
