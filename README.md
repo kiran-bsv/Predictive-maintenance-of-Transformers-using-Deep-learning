@@ -29,4 +29,4 @@ and returns,\
   TR.perf -- Training performance.\
   TR.vperf -- Validation performance.\
   TR.tperf -- Test performance.\
-  TR.mu -- Adaptive mu value.
+  TR.mu -- Adaptive mu value .
